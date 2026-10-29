@@ -23,7 +23,7 @@
 			<Item Name="LocalizableStrings.TabContainer_w4rpe7i_caption.Value" Value="Queue Permissions" />
 			<Item Name="LocalizableStrings.TabContainer_wsi30mm_caption.Value" Value="Change summary" />
 			<Item Name="LocalizableStrings.TabContainer_ymxsxk9_caption.Value" Value="DATA SCOPE RULES" />
-			<Item Name="LocalizableStrings.UsrMCITRoleActiveWarning_caption.Value" Value="Active Role: Changes require creating a new draft version." />
+			<Item Name="LocalizableStrings.UsrMCITRoleActiveWarning_caption.Value" Value="Active role: changes require a new draft version." />
 			<Item Name="LocalizableStrings.addRecord_1i1shkh_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_dzs0x8m_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_ftyzwdd_caption.Value" Value="Add new" />
