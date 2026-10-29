@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5154020-d20b-4e6f-9b57-a846f1c63002",
+    "Name": "UsrMCIT",
+    "Type": 1,
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrMCIT.csproj",
+    "DependsOn": []
+  }
+}
